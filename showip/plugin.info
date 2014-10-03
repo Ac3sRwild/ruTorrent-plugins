@@ -1,0 +1,4 @@
+plugin.description: This plugin displays server ip address in the bottom bar.
+plugin.author: AceP1983
+plugin.version: 3.6
+rtorrent.need: 0
