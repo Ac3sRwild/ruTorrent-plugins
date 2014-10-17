@@ -1,0 +1,8 @@
+plugin.description: This plugin is intended to display media file information.
+plugin.author: AceP1983
+plugin.version: 3.6
+rtorrent.remote: error
+rtorrent.external.error: cksfv
+plugin.dependencies: _task
+plugin.runlevel: 12
+php.extensions.error: json
