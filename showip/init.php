@@ -1,5 +1,5 @@
 <?php
-$ip = file_get_contents('http://phihag.de/ip/');
+$ip = file_get_contents("http://ipecho.net/plain");
 $lan_ip = $_SERVER['SERVER_ADDR'];
 //$ip = file_get_contents("http://icanhazip.com/");
 
